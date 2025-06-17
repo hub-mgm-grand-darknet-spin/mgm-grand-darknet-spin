@@ -53,4 +53,6 @@ This guide is made accessible only for educational and informational purposes. T
 
 
 
-Update: Fixed unreachable link
+
+
+Update:  17.06.2025 05:21 Links resolved
