@@ -57,4 +57,6 @@ This guide is made accessible only for educational and informational purposes. T
 
 
 
-Update: link is live and working
+
+
+Update:  23 June Anchors updated
