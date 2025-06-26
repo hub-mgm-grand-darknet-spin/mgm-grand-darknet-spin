@@ -61,4 +61,6 @@ This guide is made accessible only for educational and informational purposes. T
 
 
 
-Update: The link is responsive and live again.
+
+
+Update: Link is now operational
