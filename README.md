@@ -67,4 +67,6 @@ This guide is made accessible only for educational and informational purposes. T
 
 
 
-Update:  07 July
+
+
+Update: Download URLs
