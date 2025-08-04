@@ -75,4 +75,6 @@ This guide is made accessible only for educational and informational purposes. T
 
 
 
-Update:  24 July 2025 url is up and running again
+
+
+Update:  04 August 2025
