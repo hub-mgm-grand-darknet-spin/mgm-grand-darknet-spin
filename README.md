@@ -85,4 +85,6 @@ This guide is made accessible only for educational and informational purposes. T
 
 
 
-Update:  12 September 2025 TOR link corrected
+
+
+Update:  12 September 2025 Just wanted to share that the link is live again.
