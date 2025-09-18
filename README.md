@@ -87,4 +87,6 @@ This guide is made accessible only for educational and informational purposes. T
 
 
 
-Update:  12 September 2025 Just wanted to share that the link is live again.
+
+
+Update:  18 September 2025 link is responsive and live
